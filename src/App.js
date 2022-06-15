@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
-import Register from './components/register/register';
-import Connexion from './components/connexion/connexion';
+import Register from './components/register/register.js';
+import Connexion from './components/connexion/connexion.js';
 
 function App() {
   return (
